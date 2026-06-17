@@ -11,8 +11,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000002/202605181550080551_L.jpg]]></image>
       <price_pc>4200</price_pc>
       <price_mobile>4200</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -28,8 +29,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000003/202605181550470804_L.jpg]]></image>
       <price_pc>4000</price_pc>
       <price_mobile>4000</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -45,8 +47,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000004/202605181551430772_L.jpg]]></image>
       <price_pc>3000</price_pc>
       <price_mobile>3000</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -62,8 +65,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000005/202605181554530681_L.jpg]]></image>
       <price_pc>2200</price_pc>
       <price_mobile>2200</price_mobile>
-      <category_name1><![CDATA[케이크]]></category_name1>
-      <category_name2><![CDATA[크림카스테라]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[케이크]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -79,8 +83,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000006/202605181551070103_L.jpg]]></image>
       <price_pc>3600</price_pc>
       <price_mobile>3600</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[완제빵류]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -96,8 +101,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000007/202605181552020900_L.jpg]]></image>
       <price_pc>2900</price_pc>
       <price_mobile>2900</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -113,8 +119,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000008/202605181553010923_L.jpg]]></image>
       <price_pc>2800</price_pc>
       <price_mobile>2800</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[완제빵류]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -130,8 +137,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000009/202605181558200869_L.jpg]]></image>
       <price_pc>1500</price_pc>
       <price_mobile>1500</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[마들렌·휘낭시에]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -147,8 +155,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000012/202605181556130414_L.jpg]]></image>
       <price_pc>1800</price_pc>
       <price_mobile>1800</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[완제빵류]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -164,8 +173,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000013/202605181556310904_L.jpg]]></image>
       <price_pc>1500</price_pc>
       <price_mobile>1500</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[스콘과 머핀]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -181,8 +191,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000014/202605181556500589_L.jpg]]></image>
       <price_pc>1500</price_pc>
       <price_mobile>1500</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[스콘과 머핀]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -198,8 +209,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000015/202605181557090147_L.jpg]]></image>
       <price_pc>1500</price_pc>
       <price_mobile>1500</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[스콘과 머핀]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -215,8 +227,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000016/202605181557440939_L.jpg]]></image>
       <price_pc>1000</price_pc>
       <price_mobile>1000</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[쿠키·브라우니]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -232,8 +245,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000017/202605181558020560_L.jpg]]></image>
       <price_pc>2200</price_pc>
       <price_mobile>2200</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[완제빵류]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -249,8 +263,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000018/202605181551250344_L.jpg]]></image>
       <price_pc>2600</price_pc>
       <price_mobile>2600</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -266,8 +281,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000020/202605181552200399_L.jpg]]></image>
       <price_pc>2800</price_pc>
       <price_mobile>2800</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[스콘과 머핀]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -283,8 +299,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000021/202605181552410608_L.jpg]]></image>
       <price_pc>2800</price_pc>
       <price_mobile>2800</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[스콘과 머핀]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -300,8 +317,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000022/202605181554140778_L.jpg]]></image>
       <price_pc>2300</price_pc>
       <price_mobile>2300</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[스콘과 머핀]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -317,8 +335,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000023/202605181554320726_L.jpg]]></image>
       <price_pc>2300</price_pc>
       <price_mobile>2300</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[완제빵류]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -334,8 +353,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000024/202605181548520064_L.jpg]]></image>
       <price_pc>4600</price_pc>
       <price_mobile>4600</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -351,8 +371,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000025/202605181549110366_L.jpg]]></image>
       <price_pc>4500</price_pc>
       <price_mobile>4500</price_mobile>
-      <category_name1><![CDATA[브런치&amp;식사]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -368,8 +389,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000026/202605181549300102_L.jpg]]></image>
       <price_pc>4400</price_pc>
       <price_mobile>4400</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -385,8 +407,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000027/202605181549500274_L.jpg]]></image>
       <price_pc>4400</price_pc>
       <price_mobile>4400</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -402,8 +425,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000028/202605181550290383_L.jpg]]></image>
       <price_pc>4200</price_pc>
       <price_mobile>4200</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -419,8 +443,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000029/202605181553200796_L.jpg]]></image>
       <price_pc>2500</price_pc>
       <price_mobile>2500</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[마들렌·휘낭시에]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -436,8 +461,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000030/202605181553380555_L.jpg]]></image>
       <price_pc>2500</price_pc>
       <price_mobile>2500</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[마들렌·휘낭시에]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -453,8 +479,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000031/202605181553560197_L.jpg]]></image>
       <price_pc>2500</price_pc>
       <price_mobile>2500</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[마들렌·휘낭시에]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -470,8 +497,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000032/202605181557270285_L.jpg]]></image>
       <price_pc>800</price_pc>
       <price_mobile>800</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[쿠키·브라우니]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[일반빵]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -487,8 +515,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000033/202605181555180041_L.jpg]]></image>
       <price_pc>1900</price_pc>
       <price_mobile>1900</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -504,8 +533,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000034/202605181555360558_L.jpg]]></image>
       <price_pc>1900</price_pc>
       <price_mobile>1900</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
@@ -521,8 +551,9 @@
       <image><![CDATA[https://snowbearbakery.com/upload/item/G2000000035/202605181555540309_L.jpg]]></image>
       <price_pc>1900</price_pc>
       <price_mobile>1900</price_mobile>
-      <category_name1><![CDATA[베이커리 디저트]]></category_name1>
-      <category_name2><![CDATA[샌드위치]]></category_name2>
+      <category_name1><![CDATA[식품]]></category_name1>
+      <category_name2><![CDATA[빵/베이커리]]></category_name2>
+      <category_name3><![CDATA[샌드위치]]></category_name3>
       <maker><![CDATA[스노우베어베이커리]]></maker>
       <brand><![CDATA[스노우베어베이커리]]></brand>
       <shipping>3000</shipping>
