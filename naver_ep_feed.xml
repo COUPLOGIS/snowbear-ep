@@ -562,5 +562,56 @@
       <tax>Y</tax>
       <condition>new</condition>
     </item>
+    <item>
+      <id>G2000000038</id>
+      <title>애플 고르곤졸라피자</title>
+      <link>https://snowbearbakery.com/items/G2000000038</link>
+      <image>https://snowbearbakery.com/upload/item/G2000000038/202610081242170958_L.jpg</image>
+      <price_pc>1000</price_pc>
+      <price_mobile>1000</price_mobile>
+      <category_name1>브런치&amp;식사</category_name1>
+      <category_name2>피자</category_name2>
+      <maker>스노우베어베이커리</maker>
+      <brand>스노우베어베이커리</brand>
+      <shipping>3000</shipping>
+      <sold_out>N</sold_out>
+      <delivery_period>2</delivery_period>
+      <tax>Y</tax>
+      <condition>new</condition>
+    </item>
+    <item>
+      <id>G2000000039</id>
+      <title>비프불고기 피자</title>
+      <link>https://snowbearbakery.com/items/G2000000039</link>
+      <image>https://snowbearbakery.com/upload/item/G2000000039/202610081259310373_L.jpg</image>
+      <price_pc>1000</price_pc>
+      <price_mobile>1000</price_mobile>
+      <category_name1>브런치&amp;식사</category_name1>
+      <category_name2>피자</category_name2>
+      <maker>스노우베어베이커리</maker>
+      <brand>스노우베어베이커리</brand>
+      <shipping>3000</shipping>
+      <sold_out>N</sold_out>
+      <delivery_period>2</delivery_period>
+      <tax>Y</tax>
+      <condition>new</condition>
+    </item>
+    <item>
+      <id>G2000000040</id>
+      <title>콰트로 치즈피자</title>
+      <link>https://snowbearbakery.com/items/G2000000040</link>
+      <image>https://snowbearbakery.com/upload/item/G2000000040/202610081309270034_L.jpg</image>
+      <price_pc>1000</price_pc>
+      <price_mobile>1000</price_mobile>
+      <category_name1>브런치&amp;식사</category_name1>
+      <category_name2>피자</category_name2>
+      <maker>스노우베어베이커리</maker>
+      <brand>스노우베어베이커리</brand>
+      <shipping>3000</shipping>
+      <sold_out>N</sold_out>
+      <delivery_period>2</delivery_period>
+      <tax>Y</tax>
+      <condition>new</condition>
+    </item>
   </channel>
 </rss>
