@@ -30,3 +30,6 @@ G2000000032	달콤바삭크룽지 20g	800	800	https://snowbearbakery.com/items/G
 G2000000033	대만 X2딸기크림 샌드위치 57g	1900	1900	https://snowbearbakery.com/items/G2000000033	https://snowbearbakery.com/upload/item/G2000000033/202605181555180041_L.jpg	식품	빵/베이커리	샌드위치	50023119	스노우베어베이커리	스노우베어베이커리	3000	신상품
 G2000000034	대만 카야 샌드위치 57g	1900	1900	https://snowbearbakery.com/items/G2000000034	https://snowbearbakery.com/upload/item/G2000000034/202605181555360558_L.jpg	식품	빵/베이커리	샌드위치	50023119	스노우베어베이커리	스노우베어베이커리	3000	신상품
 G2000000035	대만 햄치즈 샌드위치 78g	1900	1900	https://snowbearbakery.com/items/G2000000035	https://snowbearbakery.com/upload/item/G2000000035/202605181555540309_L.jpg	식품	빵/베이커리	샌드위치	50023119	스노우베어베이커리	스노우베어베이커리	3000	신상품
+G2000000038	애플 고르곤졸라피자	1000	1000	https://snowbearbakery.com/items/G2000000038	https://snowbearbakery.com/upload/item/G2000000038/202610081242170958_L.jpg	브런치&식사	피자			스노우베어베이커리	스노우베어베이커리	3000	신상품
+G2000000039	비프불고기 피자	1000	1000	https://snowbearbakery.com/items/G2000000039	https://snowbearbakery.com/upload/item/G2000000039/202610081259310373_L.jpg	브런치&식사	피자			스노우베어베이커리	스노우베어베이커리	3000	신상품
+G2000000040	콰트로 치즈피자	1000	1000	https://snowbearbakery.com/items/G2000000040	https://snowbearbakery.com/upload/item/G2000000040/202610081309270034_L.jpg	브런치&식사	피자			스노우베어베이커리	스노우베어베이커리	3000	신상품
